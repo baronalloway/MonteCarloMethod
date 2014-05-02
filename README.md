@@ -8,4 +8,4 @@ This is visualized in a simple JFrame with pixels simulating darts thrown. It is
 
 The compiled version is available in the "dist" folder.
 
-![My image](https://raw.githubusercontent.com/baronalloway/MonteCarloMethod/master/img/Screen%20Shot%202014-05-02%20at%2012.27.38%20PM.png)
+![Screenshot](https://raw.githubusercontent.com/baronalloway/MonteCarloMethod/master/img/Screen%20Shot%202014-05-02%20at%2012.27.38%20PM.png)
