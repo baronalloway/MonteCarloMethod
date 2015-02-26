@@ -9,7 +9,6 @@ package alloway_baron_project4_montecarlomethod;
 
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
-import quicktime.qd3d.math.Point2D;
 
 /**
  *
